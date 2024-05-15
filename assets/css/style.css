@@ -1,0 +1,17 @@
+.content-container{
+	margin-left: 750px;
+}
+.auth-container{
+		margin-left: 50px;
+}
+.reg-container, .auth-container{
+	display: inline-block;
+}
+.text-input{
+	display: block;
+	margin-bottom: 10px;
+}
+.error-label-reg, .error-label-auth{
+	display: block;
+	color: red;
+}
