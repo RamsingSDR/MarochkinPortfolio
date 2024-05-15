@@ -1,0 +1,75 @@
+{
+    "2": {
+        "login": "userlogin3",
+        "name": "username",
+        "email": "usermail3@mail.com",
+        "pass": "53bfaaf614d83537c3eae4c1d65fe4d8a9c0c581",
+        "passConfirm": "password2",
+        "salt": "9dc34d8efc8288b1",
+        "session_id": [
+            "03983726f819cb061010c86dff63bc7ff4a8c5c6aa29e975ebb0bdd5911073c3"
+        ]
+    },
+    "7": {
+        "login": "userlogin2",
+        "name": "username",
+        "email": "usermail2@mail.com",
+        "pass": "9c7f62e7e96115a61d27e5b330bb312f848a9dbf",
+        "salt": "dfb11e71fb182122",
+        "session_id": [
+            "4495b9d549c9517758e4241a2189776d6671b771cfb25f010ae9c0251234cb89"
+        ]
+    },
+    "8": {
+        "login": "userlogin5",
+        "name": "usernameFIVE",
+        "email": "usermail5@mail.com",
+        "pass": "f529c082f50f60d4cc16dd5795615603be934658",
+        "salt": "256d40fa51430d5f",
+        "session_id": [
+            "89239e55a05670f269009389e3a5df6909925c6a5ab1c3aadce7b4810c343916"
+        ]
+    },
+    "10": {
+        "login": " loginnorm9",
+        "name": "usernameNine",
+        "email": "usermail9@mail.com",
+        "pass": "433b762341f1f9ce10145e1221659afd1f37a203",
+        "salt": "9c9b37834d9bede9",
+        "session_id": []
+    },
+    "11": {
+        "login": "userlogin11",
+        "name": "usernameTEN",
+        "email": "usermail10@mail.com",
+        "pass": "255ba9780bb4b304777cf29f7d1d0c83b7581491",
+        "salt": "f6b3ce8590c3777d",
+        "session_id": []
+    },
+    "12": {
+        "login": "userloginZ",
+        "name": "usernameZ",
+        "email": "usermailZ@mail.ru",
+        "pass": "2840ae1611f67191f1a401f453057b2de710591e",
+        "salt": "fb5f3cc856f33636",
+        "session_id": []
+    },
+    "13": {
+        "login": "userloginY",
+        "name": "usernameY",
+        "email": "usermailY@mail.ru",
+        "pass": "e1ebf1631bc13e2e83319397965396fbc8c3aef4",
+        "salt": "7bd5bed2d49779a5",
+        "session_id": []
+    },
+    "14": {
+        "login": "userloginC",
+        "name": "usernameC",
+        "email": "usermailC_@mail.com",
+        "pass": "703f74a266209272f968d2d6fa10b31b029e126f",
+        "salt": "d5070d5e99acf654",
+        "session_id": [
+            "f3b6c4e52e0a4fea23461b273eff88b0a78bfeccf402c7ac4e440c9a016a954e"
+        ]
+    }
+}
